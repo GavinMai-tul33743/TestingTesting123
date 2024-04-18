@@ -19,6 +19,4 @@ class UniqueCollection {
     }
 
     fun size() = collection.size
-
-
 }
